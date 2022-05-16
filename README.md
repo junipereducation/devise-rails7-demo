@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Devise with Rails 7
 
-Things you may want to cover:
+This is a very simple app created to demonstrate how Devise works with Rails 7.
 
-* Ruby version
+Installation
+$ git clone git@github.com:junipereducation/devise-rails7-demo.git
+$ cd /devise-rails7-demo
+$ bin/setup
+Running the app
+$ bin/dev
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Then access the site in your favourite web browser at http://localhost:3000
